@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jaayperez/facebook-ai-bot#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1"
   }
 }
