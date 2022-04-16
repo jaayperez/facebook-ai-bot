@@ -22,6 +22,6 @@
     "dialogflow": "^4.0.3",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.1.1"
   }
 }
