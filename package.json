@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/jaayperez/facebook-ai-bot#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "dialogflow": "^4.0.3",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "node-fetch": "^3.1.1"
   }
 }
